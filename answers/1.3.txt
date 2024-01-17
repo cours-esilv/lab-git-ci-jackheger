@@ -1,0 +1,8 @@
+git clone https://github.com/cours-esilv/lab-git-ci-jackheger
+
+Ensuite on change le identity.md 
+
+cd .\lab-git-ci-jackheger\
+git add identity.md
+git commit -m "Update identity.md with first name and last name"
+git push
